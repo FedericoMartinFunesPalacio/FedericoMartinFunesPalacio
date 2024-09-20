@@ -8,7 +8,7 @@ Tengo diversos niveles de conocimientos en lenguajes de programación variados c
 Actualmente me dedico a estudiar pero busco un empleo para contar con experiencia laboral
 <br>
 <br>
-var Linkedin = <a href="www.linkedin.com/in/federico-martin-funes-palacio-951856310" target="_BLANK"> "Federico Martin Funes Palacio" </a>
+var Linkedin = <a href="https://www.linkedin.com/in/federico-martin-funes-palacio-951856310" target="_BLANK"> "Federico Martin Funes Palacio" </a>
 <br>
 var Instagram = <a href="https://www.instagram.com/feede_funes" target="_BLANK"> "feede_funes" </a>
 <br>
